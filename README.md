@@ -55,9 +55,9 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Can Generate Recipes You Love;\
+:heavy_check_mark: Can Share Recipes;\
+:heavy_check_mark: Make Tasty Recipes from Eats&Shares;
 
 ## :rocket: Technologies ##
 
